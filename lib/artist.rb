@@ -29,4 +29,3 @@ attr_accessor :song, :name, :artist
   end 
 
 end
-
